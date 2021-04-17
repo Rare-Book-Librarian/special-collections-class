@@ -4,7 +4,7 @@
   
 I have one thing to say: In the battle over presidential libraries, presidents win.
 
-When it opened on the Southern Methodist University campus in Dallas in 2013, the George W. Bush Presidential Library and Museum was reported to have cost \$250 million.\cite{Greenblatt_2013} 
+When it opened on the Southern Methodist University campus in Dallas in 2013, the George W. Bush Presidential Library and Museum was reported to have cost \$250 million.[^1]
 
 ### Library as Legitimation
 
@@ -17,3 +17,8 @@ When it opened on the Southern Methodist University campus in Dallas in 2013, th
 ### The Construction of the Presidential Self
 
 ### Refusing History, Returning to the Internet
+
+
+[^1]: Alan Greenblatt. Why the bush library won’t make history, Apr 2013.
+https://www.npr.org/sections/itsallpolitics/2013/04/25/179004859/why-
+the-bush-library-wont-make-history, accessed on 4/15/21.
