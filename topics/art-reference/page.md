@@ -1,3 +1,3 @@
 # ART PATRONS
 # OR,
-## How to Serve Patrons Using Documents about Objects?
+## How to Serve Users Interested in Objects?
