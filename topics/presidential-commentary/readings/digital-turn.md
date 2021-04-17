@@ -4,6 +4,8 @@
   
 I have one thing to say: In the battle over presidential libraries, presidents win.
 
+When it opened on the Southern Methodist University campus in Dallas in 2013, the George W. Bush Presidential Library and Museum was reported to have cost \$250 million.\cite{Greenblatt_2013} 
+
 ### Library as Legitimation
 
 ### Hegemonic Mechanisms
