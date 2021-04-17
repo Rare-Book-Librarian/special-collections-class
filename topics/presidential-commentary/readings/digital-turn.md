@@ -14,4 +14,4 @@ I have one thing to say: In the battle over presidential libraries, presidents w
 
 ### The Construction of the Presidential Self
 
-### Ending with a Tweet
+### Refusing History, Returning to the Internet
