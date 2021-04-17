@@ -1,3 +1,3 @@
 # ART PATRONS
 # OR,
-## How to Serve Users Interested in Objects?
+## How to Serve Users Studying Objects?
