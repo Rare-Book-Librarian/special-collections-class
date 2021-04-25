@@ -1,123 +1,124 @@
 # SPECIAL COLLECTIONS
 ### OR,
-## Understanding Cultural Institutions
+## Understanding Cultural Heritage Institutions in America
 Library studies course in development
 
 ## Schedule
  **1. Introduction**
   - Introducing the Class: Definitions
-  - Special Libraries Association
+  - Professional Standards
   - Examples
-    1. []
-    2. []
+    1. [SLA]
+    2. [ALA]
  - Reading  
   
-**2. European Models**
- - Collecting Enlightenment
+**2. Corporate Libraries**
+ - Company Use
+ - Record Keeping
+  - Examples
+    1. [Disney]
+    2. []
+ - Reading  
+ 
+**3. Information Sources**
+ - Law Libraries
+ - Medical Libraries
   - Examples
     1. []
     2. []
  - Reading  
  
-3. Codex & Incunabula
- - History as Enlightenment Science
- - America's Gilded Age
+**4. Museums**
+ - Histories
+ - Museums in Society
   - Examples
     1. []
     2. []
  - Reading  
  
-4. 19th Century Conflicts
- - Understanding Mexico
- - Seizures & Destructions
+**5. Museum Collecting**
+ - Object Curation
+ - Research in Museums
   - Examples
     1. []
     2. []
  - Reading  
  
-5. America's Libraries
- - Research Collections
- - Library Science
+**6. Museum Controversies**
+ - Criticizing Notions of Expertise
+ - Reparations
+  - Examples
+    1. [Smithsonian]
+    2. []
+ - Reading  
+ 
+**7. Archives**
+ - Practice
+ - Meaning
   - Examples
     1. []
     2. []
  - Reading  
  
-6. The Frontier
- -  California
- - Land Grants
+**8. Archival Power**
+ - Holding onto History
+ - Managing Access
   - Examples
     1. []
     2. []
  - Reading  
  
-7. Island Empire
- - Philippines
- - Caribbean
+**9. Archival Problems**
+ - Preservation
+ - Incompleteness
   - Examples
     1. []
     2. []
  - Reading  
  
-8. The Great War
- - A New Market
- - Rebuilding
+**10. Special Collections in Academic Libraries**
+ - Collectors
+ - Researchers
   - Examples
     1. []
     2. []
  - Reading  
  
-9. Island Empire II
- - Exotica
- - American Power
+**11. Rare Books in Academia**
+ - Bibliograpy
+ - Teaching
   - Examples
     1. []
     2. []
  - Reading  
  
-10. WWII
- - Monument Men
- - Destroyers
+**12. Manuscripts in Academia**
+ - Materials for Scholarship 
+ - Institutional Repositories
   - Examples
     1. []
     2. []
  - Reading  
  
-11. Occupation
- - Asia
- - Europe
+**13. Digital Collections**
+ - Digital Archives vs. Digital Folders
+ - Structure of Digital Heritage Institutions
   - Examples
     1. []
     2. []
  - Reading  
  
-12. Cold War Colonialism
- - Global Capitalism
- - Africa
+**14. Special Collections Online**
+ - Worldwide Access to Library Treasures
+ - Digital Archiving
   - Examples
     1. []
     2. []
  - Reading  
  
-13. Fantasies
- - The Archive
- - Orientalism
-  - Examples
-    1. []
-    2. []
- - Reading  
- 
-14. Silences
- - Historical Absences
- - Contemporary Losses
-  - Examples
-    1. []
-    2. []
- - Reading  
- 
-15. Conclusion
- - Digital Colonialism
- - Responding to American Colonialism
+**15. The Future of Cultural Heritage**
+ - Digital Humanities
+ - Bulk Harvesting and Preserving
   - Examples
     1. []
     2. []
